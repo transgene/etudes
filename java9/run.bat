@@ -1,1 +1,0 @@
-java --module-path build/modules -m jigsaw.main/net.transgene.etudes.java9.main.Launcher
