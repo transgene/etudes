@@ -1,0 +1,8 @@
+kafka:
+  bootstrapServerAddress: "localhost:9092"
+  topics:
+    basic: "boot-baeldung"
+    dto: "boot-kafka-dto"
+  groups:
+    basic: "basic"
+    dto: "dto"
